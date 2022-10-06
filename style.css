@@ -4,31 +4,32 @@
     border: black;
   }
 
-.resume {
-  font-family:'Times New Roman', Times, serif;
-}
 
 html {
   font-size: 100%;
 }
 
 body {
-  font-family:Verdana, Geneva, Tahoma, sans-serif
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  margin: 30px;
 }
 
 h1 {
-  font-size: 2rem
+  font-size: 2rem;
 }
 
 h2 {
-  font-size: 1.5rem
+  font-size: 1.5rem;
+}
+
+div {
+  margin: 0;
 }
 
 div a {
-  color:beige
+  color:beige;
 }
 
 img{
   margin: 30px;
-  padding: 30px;
 }
